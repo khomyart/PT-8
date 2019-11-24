@@ -1,0 +1,30 @@
+.border-checker {
+  border: 1px solid red;
+  box-sizing: border-box;
+}
+
+.bad-value {
+  box-shadow: 0 0 3px 1px rgba(255, 0, 0, 0.507);
+}
+
+.text_error {
+  text-align: center;
+  margin-top:10px;
+  color: red;
+  height: 20px;
+  width: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text_success {
+  text-align: center;
+  margin-top:10px;
+  color: rgb(0, 212, 18);
+  height: 20px;
+  width: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
